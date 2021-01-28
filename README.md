@@ -1,4 +1,4 @@
-### Ollo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Ello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--
@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 ![Naamee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naamee&count_private=true&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naamee)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

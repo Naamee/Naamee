@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Ollo <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 <!--
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 -->
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fy5xnfk6si3c3ucmkqb3ola&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+[![Naamee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naamee)](https://github.com/Naamee/github-readme-stats)

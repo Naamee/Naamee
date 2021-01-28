@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21fy5xnfk6si3c3ucmkqb3ola&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
-[![Naamee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naamee)](https://github.com/Naamee/github-readme-stats)
+![Naamee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naamee&count_private=true)

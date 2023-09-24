@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 
 <p><img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=315cbxxnm4pomf2xi6ypidd3x7i4&cover_image=true&theme=default&show_offline=False&background_color=121212&interchange=false)"></p>
 
-
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=315cbxxnm4pomf2xi6ypidd3x7i4&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=315cbxxnm4pomf2xi6ypidd3x7i4&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)]]
 
 

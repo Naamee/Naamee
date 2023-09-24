@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=315cbxxnm4pomf2xi6ypidd3x7i4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]
-
+<img src="[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=315cbxxnm4pomf2xi6ypidd3x7i4&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)]]">
 
 
 

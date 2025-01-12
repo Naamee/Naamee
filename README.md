@@ -1,5 +1,6 @@
 ### 
-![vue](https://github.com/user-attachments/assets/9fd602b3-4aab-445b-8bd1-b6191d5baf44)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+
 
 
 <!--

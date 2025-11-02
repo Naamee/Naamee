@@ -33,3 +33,5 @@
 ![Figma](https://img.shields.io/badge/Figma-0ACF83?style=flat-square&logo=figma&logoColor=FFFFFF)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
 ![Pinia](https://img.shields.io/badge/Pinia-FADA5E?style=flat-square&logo=vue.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-00C7B7?style=flat-square&logo=redux&logoColor=white)
+
